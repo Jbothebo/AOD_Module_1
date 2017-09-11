@@ -383,3 +383,22 @@ LogInit: Object subsystem initialized
 [2017.09.11-19.27.16:351][784]SourceControl: [master 87983e4] moved playerstart
 [2017.09.11-19.27.16:351][784]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
 [2017.09.11-19.27.16:359][784]SourceControl: Commited [master 87983e4] moved playerstart.
+[2017.09.11-19.29.02:710][ 83]LogTemp: Repeating last play command: Selected Viewport
+[2017.09.11-19.29.02:758][ 83]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2D.2D:PersistentLevel' has LevelScriptBlueprint '/Game/2D.2D:PersistentLevel.2D' with GeneratedClass '/Game/2D.2D_C' with ClassGeneratedBy '/Game/2D.2D:PersistentLevel.2D'
+[2017.09.11-19.29.02:758][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.11-19.29.02:759][ 83]PIE: New page: PIE session: 2D (Sep 11, 2017, 11:29:02 AM)
+[2017.09.11-19.29.02:759][ 83]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_2D
+[2017.09.11-19.29.02:769][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009546s)
+[2017.09.11-19.29.02:770][ 83]LogAIModule: Creating AISystem for world 2D
+[2017.09.11-19.29.02:770][ 83]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2017.09.11-19.29.02:770][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2D.2D to /Game/UEDPIE_0_2D.2D (0.010675s)
+[2017.09.11-19.29.02:785][ 83]LogInit: XAudio2 using 'Speakers (SteelSeries SC2 USB Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.09.11-19.29.02:791][ 83]LogInit: FAudioDevice initialized.
+[2017.09.11-19.29.02:898][ 83]LogLoad: Game class is 'Hud_C'
+[2017.09.11-19.29.02:904][ 83]LogWorld: Bringing World /Game/UEDPIE_0_2D.2D up for play (max tick rate 0) at 2017.09.11-15.29.02
+[2017.09.11-19.29.02:905][ 83]LogWorld: Bringing up level for play took: 0.004954
+[2017.09.11-19.29.02:929][ 83]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.09.11-19.29.02:931][ 83]PIE: Play in editor start time for /Game/UEDPIE_0_2D 0.834
+[2017.09.11-19.29.02:931][ 83]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2D.2D:PersistentLevel' has LevelScriptBlueprint '/Game/2D.2D:PersistentLevel.2D' with GeneratedClass '/Game/2D.2D_C' with ClassGeneratedBy '/Game/2D.2D:PersistentLevel.2D'
+[2017.09.11-19.29.07:802][665]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2D.2D:PersistentLevel' has LevelScriptBlueprint '/Game/2D.2D:PersistentLevel.2D' with GeneratedClass '/Game/2D.2D_C' with ClassGeneratedBy '/Game/2D.2D:PersistentLevel.2D'
+[2017.09.11-19.29.07:840][665]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2D.2D:PersistentLevel' has LevelScriptBlueprint '/Game/2D.2D:PersistentLevel.2D' with GeneratedClass '/Game/2D.2D_C' with ClassGeneratedBy '/Game/2D.2D:PersistentLevel.2D'
