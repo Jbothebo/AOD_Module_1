@@ -315,3 +315,22 @@ LogInit: Object subsystem initialized
 [2017.09.11-18.46.06:207][631]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
 [2017.09.11-18.46.06:207][631]SourceControl:  rewrite Content/2D.umap (81%)
 [2017.09.11-18.46.06:215][631]SourceControl: Commited [master 432c051] change test.
+[2017.09.11-18.46.35:028][ 41]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Bottle_Sprite)
+[2017.09.11-18.46.35:983][150]Cmd: DELETE
+[2017.09.11-18.46.35:983][150]Cmd: ACTOR DELETE
+[2017.09.11-18.46.35:984][150]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2017.09.11-18.46.35:993][150]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.09.11-18.46.36:981][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2D" FILE="C:/Users/Zack/Documents/Unreal Projects/AOD_Game/AOD_Module_1/Content/2D.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.09.11-18.46.37:265][261]LogSavePackage: Save=274.34ms
+[2017.09.11-18.46.37:265][261]LogSavePackage: Moving 'C:/Users/Zack/Documents/Unreal Projects/AOD_Game/AOD_Module_1/Saved/2DE633C53D41CCA9BDA417DFB4B82448D7.tmp' to 'C:/Users/Zack/Documents/Unreal Projects/AOD_Game/AOD_Module_1/Content/2D.umap'
+[2017.09.11-18.46.37:266][261]LogSavePackage: Display: Finished SavePackage C:/Users/Zack/Documents/Unreal Projects/AOD_Game/AOD_Module_1/Content/2D.umap
+[2017.09.11-18.46.37:318][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2D_BuiltData" FILE="C:/Users/Zack/Documents/Unreal Projects/AOD_Game/AOD_Module_1/Content/2D_BuiltData.uasset" SILENT=true
+[2017.09.11-18.46.37:321][261]LogSavePackage: Save=2.21ms
+[2017.09.11-18.46.37:321][261]LogSavePackage: Moving 'C:/Users/Zack/Documents/Unreal Projects/AOD_Game/AOD_Module_1/Saved/2D_BuiltData53BB96574782D065C952D49758CCD54B.tmp' to 'C:/Users/Zack/Documents/Unreal Projects/AOD_Game/AOD_Module_1/Content/2D_BuiltData.uasset'
+[2017.09.11-18.46.37:322][261]LogSavePackage: Display: Finished SavePackage C:/Users/Zack/Documents/Unreal Projects/AOD_Game/AOD_Module_1/Content/2D_BuiltData.uasset
+[2017.09.11-18.46.39:735][548]SourceControl: fatal: D:/UE_4.17/Engine/Content/: 'D:/UE_4.17/Engine/Content/' is outside repository
+[2017.09.11-18.46.50:899][548]LogSourceControl: FGitCheckInWorker: commit successful
+[2017.09.11-18.46.50:930][548]SourceControl: [master b16c225] removed milk bottle
+[2017.09.11-18.46.50:930][548]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2017.09.11-18.46.50:930][548]SourceControl:  rewrite Content/2D.umap (62%)
+[2017.09.11-18.46.50:938][548]SourceControl: Commited [master b16c225] removed milk bottle.
