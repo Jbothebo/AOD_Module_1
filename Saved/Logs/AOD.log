@@ -291,3 +291,14 @@ LogInit: Object subsystem initialized
 [2017.09.11-19.19.45:510][999]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2D' took 0.333
 [2017.09.11-19.19.45:510][999]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.333
 [2017.09.11-19.20.07:649][380]LogEditorViewport: Clicking Background
+[2017.09.11-19.36.21:854][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2D" FILE="../../../../../../Users/Juan/Documents/Unreal Projects/AOD_Module_1/AOD_Module_1/Content/2D.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.09.11-19.36.22:158][676]LogSavePackage: Save=292.51ms
+[2017.09.11-19.36.22:158][676]LogSavePackage: Moving '../../../../../../Users/Juan/Documents/Unreal Projects/AOD_Module_1/AOD_Module_1/Saved/2D30494DC842AD1523CA01C5BB3082F0B3.tmp' to '../../../../../../Users/Juan/Documents/Unreal Projects/AOD_Module_1/AOD_Module_1/Content/2D.umap'
+[2017.09.11-19.36.22:164][676]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Juan/Documents/Unreal Projects/AOD_Module_1/AOD_Module_1/Content/2D.umap
+[2017.09.11-19.36.22:180][676]LogFileHelpers: Saving map '2D' took 0.415
+[2017.09.11-19.36.38:600][640]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2017.09.11-19.36.44:961][640]LogSourceControl: FGitCheckInWorker: commit successful
+[2017.09.11-19.36.45:017][640]SourceControl: [master 2731451] change
+[2017.09.11-19.36.45:017][640]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2017.09.11-19.36.45:017][640]SourceControl:  rewrite Content/2D.umap (61%)
+[2017.09.11-19.36.45:027][640]SourceControl: Commited [master 2731451] change.
